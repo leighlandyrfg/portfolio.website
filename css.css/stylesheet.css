@@ -2,9 +2,16 @@ body {
 margin: 0px;
 width: 100%;
 height: auto;
-background-color: #EFFEFC
+background-color: #FBEBCC;
 display: flex;
 justify-content: center;
+}
+#main-container {
+    width: 1024px;
+    height: 4000px;
+    background-color: #EFFEFC;
+    border: solid 1px #EFFEFC;
+}
 p{
     height: 75%;
     width: 75%;
