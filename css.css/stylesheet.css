@@ -1,23 +1,54 @@
 body {
-margin: 0px;
-width: 100%;
-height: auto;
-background-color: #FBEBCC;
-display: flex;
-justify-content: center;
+    background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=56f7ade1cc&attid=0.1&permmsgid=msg-a:r-2767960448224432604&th=18136a96d21b3ce9&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-m6sEV6HsG_4LQsO-jGlaZ5QTIkrLQnJzr7aONUVg5HTSUMaeU5i7cYWN1ie7n7UxuI8hgQ3UnqIYrprwu9qYpXCY6nhG7KOsjHTCvLLQ3igjITIRYs0q2nbY&disp=emb&realattid=18136a952a12e5a56251
+    )
+    
+}
+p {
+    background-color: #ffe4c497;
+    font-size: 30px;
+    border: #137dc3;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2 {
+    font-size: 60px;
+    height: 50px;
+    width: 70px;
+}
+image {
+    position: fixed;
 }
 #main-container {
-    width: 1024px;
-    height: 4000px;
-    background-color: #EFFEFC;
-    border: solid 1px #EFFEFC;
+    margin-top: 20px;
+    background-color: #ffe4c4;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 40px;
 }
-p{
-    height: 75%;
-    width: 75%;
-    background-color: #
+#logo {
+background-color: #96c7e7a1;
+justify-self: center;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+height: 20%;
+padding: 40px;
+align-content: center;
+text-align: center;
 }
-h2 { 
-    margin: 0%;
-    width: ;
+
+#skills {
+    margin-top: 20px;
+    background-color: bisque;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 80;
+    padding: 40px;
 }
+ #artwork {
+     padding: 40px;
+     text-align: center;
+     border: #3a7e9e75;
+ }
+ 
